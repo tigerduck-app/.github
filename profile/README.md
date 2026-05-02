@@ -1,5 +1,7 @@
 <div align="center">
-<img width="2000" src="https://github.com/user-attachments/assets/cf6a1d18-a348-4b83-adfd-81c6dc82855f" />
+  <a href="https://tigerduck.app/">
+    <img width="2000" src="https://github.com/user-attachments/assets/cf6a1d18-a348-4b83-adfd-81c6dc82855f" />
+  </a>
 <br>
 
 [![Website](https://img.shields.io/badge/Website-tigerduck.app-00BB00?style=for-the-badge)](https://tigerduck.app/)
