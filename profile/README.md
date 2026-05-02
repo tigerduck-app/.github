@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/Website-tigerduck.app-00BB00?style=for-the-badge)](https://tigerduck.app/)
 [![iOS TestFlight](https://img.shields.io/badge/iOS-TestFlight-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://testflight.apple.com/join/eVt9Gjkw)
-[![Android](https://img.shields.io/badge/Android-Coming%20Soon-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/tigerduck-app/tigerduck-app-android)
+[![Android](https://img.shields.io/badge/Android-APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/tigerduck-app/tigerduck-app-android/releases/latest/download/TigerDuck.apk)
 [![License](https://img.shields.io/badge/License-AGPL--3.0-blue?style=for-the-badge)](https://www.gnu.org/licenses/agpl-3.0)
 
 </div>
