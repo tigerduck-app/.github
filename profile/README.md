@@ -23,7 +23,7 @@ TigerDuck 是一群臺灣科技大學學生共同開發的校園助手
 | 平台 | 狀態 | 連結 |
 |:---:|:---:|:---:|
 | **iOS** | 公測中 | [![TestFlight](https://img.shields.io/badge/Join-TestFlight-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://testflight.apple.com/join/eVt9Gjkw) |
-| **Android** | 公測中 ＆ 上架 Play 商店審核中 ＆ F-Droid 上架成功 | [tigerduck-app-android](https://github.com/tigerduck-app/tigerduck-app-android/releases/latest/download/TigerDuck.apk) |
+| **Android** | Google Play & F-Droid 已上架 | [![Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=org.ntust.app.tigerduck) [![F-Droid](https://img.shields.io/badge/Get_it_on-F--Droid-1976D2?style=flat-square&logo=fdroid&logoColor=white)](https://f-droid.org/packages/org.ntust.app.tigerduck.fdroid/) |
 | **Web** | 官方網站 | [tigerduck.app](https://tigerduck.app/) |
 
 ## 主要功能
