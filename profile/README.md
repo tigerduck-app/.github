@@ -6,6 +6,7 @@
 
 [![Website](https://img.shields.io/badge/Website-tigerduck.app-00BB00?style=for-the-badge)](https://tigerduck.app/)
 [![iOS TestFlight](https://img.shields.io/badge/iOS-TestFlight-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://testflight.apple.com/join/eVt9Gjkw)
+[![iOS App Store](https://img.shields.io/badge/iOS-App%20Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/id6761084888)
 [![Android](https://img.shields.io/badge/Google_Play-Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=org.ntust.app.tigerduck)
 [![License](https://img.shields.io/badge/License-AGPL--3.0-blue?style=for-the-badge)](https://www.gnu.org/licenses/agpl-3.0)
 
@@ -22,7 +23,7 @@ TigerDuck 是一群臺灣科技大學學生共同開發的校園助手
 
 | 平台 | 狀態 | 連結 |
 |:---:|:---:|:---:|
-| **iOS** | 公測中 | [![TestFlight](https://img.shields.io/badge/Join-TestFlight-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://testflight.apple.com/join/eVt9Gjkw) |
+| **iOS** | App Store 已上架，開放 TestFlight 搶先測試新功能 | [![iOS App Store](https://img.shields.io/badge/iOS-App%20Store-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/app/id6761084888) [![TestFlight](https://img.shields.io/badge/Join-TestFlight-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://testflight.apple.com/join/eVt9Gjkw) |
 | **Android** | Google Play & F-Droid 已上架 | [![Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=org.ntust.app.tigerduck) [![F-Droid](https://img.shields.io/badge/Get_it_on-F--Droid-1976D2?style=flat-square&logo=fdroid&logoColor=white)](https://f-droid.org/packages/org.ntust.app.tigerduck.fdroid/) |
 | **Web** | 官方網站 | [tigerduck.app](https://tigerduck.app/) |
 
