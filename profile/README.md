@@ -5,10 +5,11 @@
 <br>
 
 [![Website](https://img.shields.io/badge/Website-tigerduck.app-00BB00?style=for-the-badge)](https://tigerduck.app/)
+[![License](https://img.shields.io/badge/License-AGPL--3.0-blue?style=for-the-badge)](https://www.gnu.org/licenses/agpl-3.0)
+
 [![iOS TestFlight](https://img.shields.io/badge/iOS-TestFlight-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://testflight.apple.com/join/eVt9Gjkw)
 [![iOS App Store](https://img.shields.io/badge/iOS-App%20Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/id6761084888)
 [![Android](https://img.shields.io/badge/Google_Play-Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=org.ntust.app.tigerduck)
-[![License](https://img.shields.io/badge/License-AGPL--3.0-blue?style=for-the-badge)](https://www.gnu.org/licenses/agpl-3.0)
 
 </div>
 
