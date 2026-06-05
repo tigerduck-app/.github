@@ -49,10 +49,10 @@ TigerDuck 是一群臺灣科技大學學生共同開發的校園助手
 
 ## 貢獻
 
-歡迎 PR、Issue、翻譯、回報 Bug。
+歡迎 PR、Issue、翻譯、回報 Bug
 
-- **新功能 / Bug 修復** — 到對應 repo 開 Issue 或 PR，目標分支為 `dev`
-- **翻譯** — 改 [`app-translation`](https://github.com/tigerduck-app/app-translation)，不要直接改 App 內的 `.lproj` / `strings.xml`
+- **新功能 / Bug 修復** — 到對應 repo 開 Issue，或 PR 且合併目標分支為 `dev`
+- **翻譯** — 改 [`app-translation`](https://github.com/tigerduck-app/app-translation)，而不是直接改 App 內的 `.lproj` / `strings.xml`
 - **課程 / 教室簡稱** — 改 [`name-abbr`](https://github.com/tigerduck-app/name-abbr)
 - 分支命名請使用 `feature/your-feature` 或 `fix/your-fix`
 
