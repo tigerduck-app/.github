@@ -44,6 +44,7 @@ TigerDuck 是一群臺灣科技大學學生共同開發的校園助手
 |---|---|---|
 | [`tigerduck-app`](https://github.com/tigerduck-app/tigerduck-app) | iOS App 主專案 | Swift 5 · SwiftUI |
 | [`tigerduck-app-android`](https://github.com/tigerduck-app/tigerduck-app-android) | Android App | Kotlin 2.3 · Jetpack Compose · Material 3 · Hilt · Room |
+| [`tigerduck-app-backend`](https://github.com/tigerduck-app/tigerduck-backend) | Backend | Python |
 | [`tigerduck-web`](https://github.com/tigerduck-app/tigerduck-web) | 官方網站 | Vite + React · Cloudflare Workers |
 | [`app-translation`](https://github.com/tigerduck-app/app-translation) | 67+ 語系翻譯 | JSON · 自動產生 `.strings` / `strings.xml` |
 | [`name-abbr`](https://github.com/tigerduck-app/name-abbr) | 課程 / 教室名稱簡寫字典 | JSON |
